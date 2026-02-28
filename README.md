@@ -50,7 +50,7 @@ Ce diagramme illustre les interactions possibles entre l'Administrateur (l'acteu
 
 
 ### 2. Diagramme de Classes
-Ce diagramme détaille la structure orientée objet de l'application, les entités de la base de données (Étudiant, Module, Note, Utilisateur) et les classes de l'interface graphique.
+Ce diagramme détaille la structure orientée objet de l'application, les entités de la base de données (Étudiant, Module, Note) et les classes de l'interface graphique.
 
 <img width="919" height="583" alt="Screenshot 2026-02-28 143508" src="https://github.com/user-attachments/assets/32f05002-b6fd-4a50-bb0c-6bbf9310c6e5" />
 
