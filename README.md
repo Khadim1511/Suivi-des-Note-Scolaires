@@ -13,7 +13,11 @@ Ce projet est une application de bureau (Desktop) développée en Java avec l'in
 
 Découvrez l'application en action (connexion sécurisée, gestion des étudiants, saisie des notes et affichage des statistiques) dans cette courte vidéo de présentation :
 
-🎬 **[Cliquez ici pour ouvrir la vidéo de démonstration (demo.mp4)](demo.mp4)**
+🎬 
+
+https://github.com/user-attachments/assets/422ae1f1-ce2b-4351-88e1-574a211e8622
+
+
 
 ---
 
